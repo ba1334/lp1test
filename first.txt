@@ -1,2 +1,25 @@
-hello i am bhargav
-discard this change
+find a repo in git
+copy repo forked link
+goto folder in sys
+git clone repo link
+cd reponame
+git branch f1
+git checkout f1
+nano first.txt-simple txt
+git add
+git commit
+nano second.txt-same as first
+git add
+git commit
+git checkout master
+git merge
+nano first.txt change content
+git add
+git commit
+git checkout f1
+nano first.txt add diff content
+git add
+git commit
+git checkout master
+git merge f1
+git diff first.txt
